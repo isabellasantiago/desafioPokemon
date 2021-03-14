@@ -156,6 +156,10 @@ footer {
   #squirtle {
     width: 400px;
   }
+
+  .img-section{
+    max-width: 1720px;
+  }
 }
 @keyframes spin {
   100% {
