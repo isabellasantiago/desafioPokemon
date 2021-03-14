@@ -1,0 +1,26 @@
+:root {
+    --color-primary: #F0F0F7;
+    --color-background: #25BFE0;
+    --color-button-primary: #000000;
+    --color-button-primary-lighter: #2D2D2D;
+    --color-text-button: #F0F0F7;
+    font-size: 60%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, button{
+    font-family: Poppins;
+    color: #000000;
+}
+
+
+@media (min-width: 700px){
+    :root{
+        font-size: 62.5%;
+    }
+}
